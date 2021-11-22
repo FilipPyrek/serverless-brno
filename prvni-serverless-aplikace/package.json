@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "prvni-serverless-aplikace",
+  "author": "Filip Pyrek <PyrekFilip@gmail.com> (https://filip.pyrek.cz)",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "scripts": {},
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.85",
+    "serverless": "^2.66.2"
+  }
+}
