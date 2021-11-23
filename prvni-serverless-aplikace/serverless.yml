@@ -1,5 +1,8 @@
 service: prvni-serverless-aplikace
 
+plugins:
+  - serverless-offline
+
 frameworkVersion: '2'
 
 provider:
